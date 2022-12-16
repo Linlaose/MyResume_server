@@ -17,23 +17,74 @@
     {
       "category": "設計類",
       "userId": "2",
-      "template": "<div class=\"d-flex draggable mb-4\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi id facilis a provident. Ratione ducimus exercitationem culpa laborum magni minima?</p>\n</div>\n</div>\n<div class=\"d-flex justify-content-between draggable mb-4\" draggable=\"false\">\n<div class=\"ps-2\">\n<p>1</p>\n<ul>\n<li>Lorem ipsum dolor sit amet.</li>\n<li>Lorem ipsum dolor sit amet.</li>\n<li>Lorem ipsum dolor sit amet.</li>\n</ul>\n</div>\n<div class=\"ps-2\">\n<p>2</p>\n<ul>\n<li>Lorem ipsum dolor sit amet.</li>\n<li>Lorem ipsum dolor sit amet.</li>\n<li>Lorem ipsum dolor sit amet.</li>\n</ul>\n</div>\n<div class=\"ps-2\">\n<p>3</p>\n<ul>\n<li>Lorem ipsum dolor sit amet.</li>\n<li>Lorem ipsum dolor sit amet.</li>\n<li>Lorem ipsum dolor sit amet.</li>\n</ul>\n</div>\n</div>",
+      "template": "<div class=\"d-flex draggable mb-4\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>\n</div>\n</div>\n<div class=\"draggable mb-4\" draggable=\"false\"><img draggable=\"false\" src=\"assets/images/bg_login.jpg\" alt=\"\"></div>",
       "name": "測試履歷",
-      "id": 1
+      "id": 1,
+      "isOpen": true
     },
     {
       "category": "工程類",
       "userId": "2",
-      "template": "<div class=\"d-flex draggable mb-4\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi id facilis a provident. Ratione ducimus exercitationem culpa laborum magni minima?</p>\n</div>\n</div>\n<div class=\"d-flex draggable mb-4 flex-row-reverse\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi id facilis a provident. Ratione ducimus exercitationem culpa laborum magni minima?</p>\n</div>\n</div>",
+      "template": "<div class=\"d-flex draggable mb-4\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>\n</div>\n</div>\n<div class=\"d-flex draggable mb-4\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>\n</div>\n</div>",
       "name": "測試 2",
-      "id": 2
+      "id": 2,
+      "isOpen": true
     },
     {
       "category": "管理類",
       "userId": "2",
-      "template": "<div class=\"d-flex justify-content-between draggable mb-4\" draggable=\"false\">\n<div class=\"ps-2\">\n<p>1</p>\n<ul>\n<li>Lorem ipsum dolor sit amet.</li>\n<li>Lorem ipsum dolor sit amet.</li>\n<li>Lorem ipsum dolor sit amet.</li>\n</ul>\n</div>\n<div class=\"ps-2\">\n<p>2</p>\n<ul>\n<li>Lorem ipsum dolor sit amet.</li>\n<li>Lorem ipsum dolor sit amet.</li>\n<li>Lorem ipsum dolor sit amet.</li>\n</ul>\n</div>\n<div class=\"ps-2\">\n<p>3</p>\n<ul>\n<li>Lorem ipsum dolor sit amet.</li>\n<li>Lorem ipsum dolor sit amet.</li>\n<li>Lorem ipsum dolor sit amet.</li>\n</ul>\n</div>\n</div>",
+      "template": "<div class=\"d-flex justify-content-between draggable mb-4\" draggable=\"false\">\n<div class=\"ps-2\">管理類履歷 Mary</div>\n<div class=\"ps-2\">\n<ul>\n<li>&nbsp;</li>\n</ul>\n</div>\n</div>\n<div class=\"draggable mb-4\" draggable=\"false\"><img draggable=\"false\" src=\"assets/images/bg_login.jpg\" alt=\"\"></div>\n<div class=\"draggable mb-4\" draggable=\"false\"><img draggable=\"false\" src=\"assets/images/bg_login.jpg\" alt=\"\"></div>",
       "name": "測試履歷 3",
-      "id": 3
+      "id": 3,
+      "isOpen": true
+    },
+    {
+      "userId": "2",
+      "template": "<p class=\"draggable\" draggable=\"false\">設計類 Mary</p>\n<div class=\"d-flex draggable mb-4 flex-row-reverse\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>\n</div>\n</div>\n<div class=\"d-flex draggable mb-4\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>\n</div>\n</div>",
+      "name": "測試履歷",
+      "category": "設計類",
+      "id": 4,
+      "isOpen": true
+    },
+    {
+      "userId": "2",
+      "template": "<p class=\"draggable\" draggable=\"false\">很簡單的自我介紹，輕鬆描述即可</p>\n<div class=\"d-flex draggable mb-4 flex-row-reverse\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>\n</div>\n</div>\n<div class=\"draggable mb-4\" draggable=\"false\"><img draggable=\"false\" src=\"assets/images/bg_login.jpg\" alt=\"\"></div>",
+      "name": "設計履歷測試",
+      "category": "設計類",
+      "id": 5,
+      "isOpen": true
+    },
+    {
+      "userId": "2",
+      "template": "<div class=\"d-flex draggable mb-4 flex-row-reverse\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>\n</div>\n</div>\n<div class=\"draggable mb-4\" draggable=\"false\"><img draggable=\"false\" src=\"assets/images/bg_login.jpg\" alt=\"\"></div>\n<p class=\"draggable\" draggable=\"false\">這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>",
+      "name": "工程履歷測試",
+      "category": "工程類",
+      "id": 6,
+      "isOpen": true
+    },
+    {
+      "userId": "2",
+      "template": "<div class=\"d-flex draggable mb-4\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>\n</div>\n</div>\n<p class=\"draggable\" draggable=\"false\">很簡單的自我介紹，輕鬆描述即可</p>",
+      "name": "工程履歷測試 - 2",
+      "category": "工程類",
+      "id": 7,
+      "isOpen": true
+    },
+    {
+      "userId": "2",
+      "template": "<div class=\"d-flex draggable mb-4\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>\n</div>\n</div>\n<p class=\"draggable\" draggable=\"false\">很簡單的自我介紹，輕鬆描述即可</p>\n<div class=\"d-flex draggable mb-4 flex-row-reverse\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>\n</div>\n</div>",
+      "name": "管理類履歷測試",
+      "category": "管理類",
+      "id": 8,
+      "isOpen": true
+    },
+    {
+      "userId": "2",
+      "template": "<div class=\"d-flex draggable mb-4\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>\n</div>\n</div>\n<p class=\"draggable\" draggable=\"false\">很簡單的自我介紹，輕鬆描述即可</p>\n<div class=\"d-flex draggable mb-4 flex-row-reverse\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>\n</div>\n</div>\n<div class=\"draggable mb-4\" draggable=\"false\"><img draggable=\"false\" src=\"assets/images/bg_login.jpg\" alt=\"\"></div>\n<div class=\"d-flex draggable mb-4\" draggable=\"false\">\n<div><img draggable=\"false\" src=\"https://picsum.photos/500/300?random=1\" alt=\"\"></div>\n<div class=\"pl-4\">\n<p>這個是工作內容，請抓住重點簡略敘述，不要不著邊際瞎扯，你瞎扯，應徵你的主管一定也知道你在瞎扯</p>\n</div>\n</div>",
+      "name": "管理類履歷測試 - 2",
+      "category": "管理類",
+      "id": 9,
+      "isOpen": true
     }
   ]
 }
